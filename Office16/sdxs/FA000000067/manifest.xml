@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:type="ContentApp">
+  <Id>b250b372-2804-49cc-af76-b070a325ae3f</Id>
+  <Version>1.0.2204.12005</Version>
+  <ProviderName>Microsoft Corporation</ProviderName>
+  <DefaultLocale>en-US</DefaultLocale>
+  <DisplayName DefaultValue="PrivacySettings"/>
+  <Description DefaultValue="Open Privacy Settings"/>
+  <IconUrl DefaultValue="assets/StoreLogo.png" />
+  <Hosts>
+    <Host Name="Document"/>
+    <Host Name="Notebook"/>
+    <Host Name="Presentation"/>
+    <Host Name="Workbook"/>
+  </Hosts>
+  <Permissions>ReadWriteDocument</Permissions>
+  <Requirements>
+    <Sets>
+      <Set Name="PrivacySdx" MinVersion="2.0.0"/>
+    </Sets>
+  </Requirements>
+</OfficeApp>

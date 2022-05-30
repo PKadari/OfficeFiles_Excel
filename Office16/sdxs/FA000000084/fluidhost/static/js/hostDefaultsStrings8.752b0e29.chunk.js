@@ -1,0 +1,2 @@
+(this.webpackJsonpfluidhost=this.webpackJsonpfluidhost||[]).push([[169],{1090:function(r){r.exports=JSON.parse('{"strings":{"shareDialogErrorTitle":{"s":"No s\'ha pogut compartir","f":0},"shareDialogErrorMessage":{"s":"Ho sentim, no podem arribar al servidor ara mateix. Torneu-ho a provar m\xe9s tard.","f":0},"copyDialogErrorTitle":{"s":"No s\'ha pogut copiar","f":0}}}')}}]);
+//# sourceMappingURL=hostDefaultsStrings8.752b0e29.chunk.js.map

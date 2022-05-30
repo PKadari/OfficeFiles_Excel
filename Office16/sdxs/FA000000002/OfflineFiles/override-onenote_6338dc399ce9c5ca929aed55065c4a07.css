@@ -1,0 +1,61 @@
+
+.ts-button-colorful {
+    background-color:#7719AA !important;
+}
+
+.ts-button-colorful:hover {
+    background-color: #7719AA !important;
+}
+
+.ts-button-colorful:active {
+    background-color: #7719AA !important;
+}
+
+/* OK button */
+
+.ts-document-ok-button {
+    background-color: #7719AA !important;
+    color: rgba(255, 255, 255, 1);
+}
+
+.ts-document-ok-button:hover {
+    background-color: #7719AA !important;
+    color: rgba(255, 255, 255, 1);
+}
+
+.ts-document-ok-button:active {
+    background-color: #7719AA !important;
+    color: rgba(255, 255, 255, 1);
+}
+
+/* Pivot tab underline */
+
+.ms-Pivot-link.is-selected::before {
+    border-bottom: 2px solid #7719AA !important;
+}
+
+/* Swap button */
+.ts-SwitcherButton-colorful {
+    color: #7719AA !important;
+}
+
+.ts-iconButton-colorful .ms-Icon {
+    color: #7719AA !important;
+}
+
+.ts-semantic-menu input, .ts-semantic-menu > .text, .ts-semantic-menu > .icon {
+    color: #7719AA !important;
+}
+
+.ts-translation-completion .ms-Icon,
+.ts-translation-completion .ts-completion-label {
+    color: #7719AA !important;
+}
+
+.ms-Spinner-label {
+    color: #7719AA !important;
+}
+
+.ms-Spinner-circle {
+    border-top-color: #7719AA !important;
+}

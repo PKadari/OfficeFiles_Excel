@@ -1,0 +1,2 @@
+(this.webpackJsonpfluidhost=this.webpackJsonpfluidhost||[]).push([[121],{1118:function(s){s.exports=JSON.parse('{"strings":{"shareDialogErrorTitle":{"s":"Ekki t\xf3kst a\xf0 samn\xfdta","f":0},"shareDialogErrorMessage":{"s":"Ekki n\xe6st \xed \xfej\xf3ninn eins og er. Reyndu aftur s\xed\xf0ar.","f":0},"copyDialogErrorTitle":{"s":"Ekki t\xf3kst a\xf0 afrita","f":0}}}')}}]);
+//# sourceMappingURL=hostDefaultsStrings36.be897eed.chunk.js.map

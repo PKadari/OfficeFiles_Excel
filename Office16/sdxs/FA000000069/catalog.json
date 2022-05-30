@@ -1,0 +1,10 @@
+{
+    "1.0": [
+        "app.json",
+        "licensing.win32.bundle",
+        "licensing.win32.bundle.LICENSE.txt",
+        "strings.resjson",
+        "msft.png",
+        "manifest.xml"
+    ]
+}

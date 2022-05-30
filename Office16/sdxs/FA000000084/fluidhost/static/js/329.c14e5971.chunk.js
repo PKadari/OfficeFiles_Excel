@@ -1,0 +1,2 @@
+(this.webpackJsonpfluidhost=this.webpackJsonpfluidhost||[]).push([[329],{641:function(n){n.exports=JSON.parse('{"ControlClickToFollowLink":"Ctrl+Klik untuk mengikuti pautan","GettingThisReady":"Sedang menyediakan...","Remove":"Alih keluar","Loading":"Memuatkan","NewLiveComponentFileName":"Komponen Langsung","NewLoopComponentFileName":"Komponen Loop","CopyLink":"Salin pautan"}')}}]);
+//# sourceMappingURL=329.c14e5971.chunk.js.map

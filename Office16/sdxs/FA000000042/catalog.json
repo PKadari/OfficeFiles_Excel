@@ -1,0 +1,14 @@
+{
+    "1.0": [
+        "assets\\assets\\images\\add_user_72.png",
+        "assets\\assets\\images\\ios\\add_user_2x.png",
+        "assets\\assets\\images\\ios\\arrow.png",
+        "assets\\assets\\images\\MSFT.png",
+        "assets\\assets\\images\\MSFT_Text.png",
+        "assets\\assets\\images\\MSFT_Text_62.png",
+        "mecontrol.win32.bundle",
+        "strings.resjson",
+        "mecontrol.png",
+        "manifest.xml"
+    ]
+}

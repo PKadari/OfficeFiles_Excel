@@ -1,0 +1,2 @@
+(this.webpackJsonpfluidhost=this.webpackJsonpfluidhost||[]).push([[313],{625:function(o){o.exports=JSON.parse('{"ControlClickToFollowLink":"\xddttu \xe1 Ctrl og smelltu til a\xf0 opna tengil","GettingThisReady":"Undirb\xfaningur \xed gangi ...","Remove":"Fjarl\xe6gja","Loading":"Hle\xf0ur","NewLiveComponentFileName":"Virkur \xedhlutur","NewLoopComponentFileName":"Loop-\xfe\xe1ttur","CopyLink":"Afrita tengil"}')}}]);
+//# sourceMappingURL=313.d4ca008d.chunk.js.map

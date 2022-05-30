@@ -1,0 +1,1 @@
+{"AssetID":"FA000000050","Version":"1.0.2204.20004","Titles":[{"Locale":"en-US","Title":"Data from Picture"}],"Hosts":["Workbook","Presentation"],"RequirementSets":[],"Platforms":["win32","web"],"DefaultLocale":"en-us","Locales":{"win32":["en-us"],"web":["en-us"]},"OnDemand":false,"ConfigSchemaVersion":"1.0.0"}

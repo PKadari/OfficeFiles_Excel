@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Apps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:schemas-microsoft-com:office:office:sdx">
+  <App Id="FA000000002" Version="2.0.2002.19003" ExpDate="01/01/2099" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000005" Version="1.0.1905.16004" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000006" Version="1.0.2202.23005" ExpDate="01/01/2099" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000018" Version="1.0.2111.25004" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000031" Version="1.0.1902.28003" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000042" Version="1.0.2002.26003" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000043" Version="1.0.2202.14003" ExpDate="01/01/2099" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000049" Version="1.0.2008.10006" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000050" Version="1.0.2204.20004" ExpDate="01/01/2099" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000054" Version="1.0.2201.20002" ExpDate="01/01/2099" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000058" Version="1.0.2203.1004" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000062" Version="1.0.2204.28006" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000063" Version="1.0.2201.31004" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000067" Version="1.0.2012.1004" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000068" Version="1.0.2101.12005" ExpDate="01/01/2099" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000069" Version="1.0.2203.30008" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000070" Version="1.0.2111.29004" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000072" Version="1.0.2111.19003" ExpDate="01/01/2099" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000076" Version="1.0.2103.1003" ExpDate="01/01/2099" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000079" Version="1.0.2109.7001" ExpDate="01/01/2099" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000083" Version="1.0.2204.5004" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000084" Version="1.1.2204.1301" ExpDate="01/01/2099" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000087" Version="1.0.2107.29001" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000088" Version="1.0.2203.24004" DistFormat="Folder" CdnPath="" />
+  <App Id="FA000000098" Version="1.0.2201.18004" DistFormat="Folder" CdnPath="" />
+</Apps>
